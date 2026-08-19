@@ -28,6 +28,7 @@ class CausalSelfAttention(nn.Module):
 
         self.c_attn = nn.Linear(config.n_embd, 3*config.n_embd)
         self.c_proj = nn.Linear(config.n_embd, config.n_embd)
+        self.c_proj.NANOGPT_SCALE_INIT=1
 
         self.n_head = config.n_head
         self.n_embd = config.n_embd
@@ -44,10 +45,11 @@ class CausalSelfAttention(nn.Module):
         q = q.view(B, T, self.n_head, C//self.n_head).transpose(1, 2)
         v = v.view(B, T, self.n_head, C//self.n_head).transpose(1, 2)
 
-        att = (q @ k.transpose(-2, -1)) * (1.0/ math.sqrt(k.size(-1)))
-        att = att.masked_fill(self.bias[:, :, :T, :T] == 0, float('-inf'))
-        att = F.softmax(att, dim=-1)
-        y = att @ v
+        # att = (q @ k.transpose(-2, -1)) * (1.0/ math.sqrt(k.size(-1)))
+        # att = att.masked_fill(self.bias[:, :, :T, :T] == 0, float('-inf'))
+        # att = F.softmax(att, dim=-1)
+        # y = att @ v
+        y = F.scaled_dot_product_attention(q, k, v, is_causal=True)
         y = y.transpose(1, 2).contiguous().view(B, T, C)
         y = self.c_proj(y)
         return y
@@ -205,24 +207,32 @@ max_length = 30
 
 
 #model = GPT.from_pretrained('gpt2')
-model = GPT(GPTConfig())
+model = GPT(GPTConfig(vocab_size=50304))
 model.to(device)
+model = torch.compile(model)
 
+train_loader = DataLoaderLite(B=4 , T=1024)
 
-train_loader = DataLoaderLite(B=4 , T=32)
-
+torch.set_float32_matmul_precision('high')
 #logits, loss = model(x, y)
 #print(loss)
 optimizer = torch.optim.AdamW(model.parameters(), lr=3e-4)
+import time
 
-for i in range(1000):
+for i in range(50):
+    t0 = time.time()
     x, y = train_loader.next_batch()
     x, y = x.to(device), y.to(device)
 
     optimizer.zero_grad()
-    logits, loss = model(x, y)
+    with torch.autocast(device_type=device, dtype=torch.float16):
+        logits, loss = model(x, y)
     loss.backward()
     optimizer.step()
-    print(f"step {i}, loss: {loss.item()}")
+    torch.cuda.synchronize()
+    t1 = time.time()
+    dt = (t1 - t0)*1000
+    tokens_per_sec = (train_loader.B * train_loader.T)/(t1-t0) 
+    print(f"step {i}, loss: {loss.item()}, dt:{dt:.2f}ms, tok/sec:{tokens_per_sec:.2f}")
 
 
