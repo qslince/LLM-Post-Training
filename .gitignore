@@ -1,0 +1,16 @@
+.venv/
+wandb/
+__pycache__/
+*.pyc
+
+# data
+edu_fineweb10B/
+hellaswag/
+MNIST/
+input.txt
+
+# model checkpoints (too large for GitHub)
+*.pt
+
+# empty dirs
+smollm3-finetuned/
