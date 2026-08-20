@@ -1,0 +1,1202 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "Mountain Jews or Caucasus Jews also known as Juhuro, Juvuro, Juhuri, Juwuri, Juhurim, Kavkazi Jews or Gorsky Jews (Azerbaijani: Dag Y@hudil@ri, Hebrew: yhvdy qvvqz Yehudey Kavkaz or yhvdy hhrym Yehudey he-Harim, Russian: Gorskie evrei, translit.\n\nMountain Jews speak Judeo-Tat, also called Juhuri, a form of Persian, it belongs to the southwestern group of the Iranian division of the Indo-European languages. Judeo-Tat has Semitic (Hebrew/Aramaic/Arabic) elements on all linguistic levels. Among other Semitic elements, Judeo-Tat has the Hebrew sound \"ayin\" (`), whereas no neighboring languages have it. Until the early Soviet period, the language was written with semi-cursive Hebrew alphabet. Later, Judeo-Tat books, newspapers, textbooks, and other materials were printed with a Latin alphabet and finally in Cyrillic, which is still most common today. The first Judeo-Tat-language newspaper, Zakhmetkesh (Working People), was published in 1928 and operated until the second half of the twentieth century.  Originally, only boys were educated through synagogue schools. Starting from the 1860s, many well-off families switched to home-schooling, hiring private tutors, who taught their sons not only Hebrew, but also Russian and Yiddish. In the early 20th century, with advance of sovietization, Judeo-Tat became the language of instruction at newly founded elementary schools attended by both Mountain Jewish boys and girls. This policy continued until the beginning of World War II, when schools switched to Russian as the central government emphasized acquisition of Russian as the official language of the Soviet Union.  The Mountain Jewish community has had notable figures in public health, education, culture, and art.  In the 21st century, the government is encouraging the cultural life of minorities. In Dagestan and Kabardino-Balkaria, Judeo-Tat and Hebrew courses have been introduced in traditionally Mountain Jewish schools. In Dagestan, there is support for the revival of the Judeo-Tat-language theater and the publication of newspapers in that language.\n\nAnswer the following question by taking a quote from the article: where did women learn"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Alice Geraldine Farrar (February 28, 1882 – March 11, 1967) was an American soprano opera singer and film actress, noted for her beauty, acting ability, and \"the intimate timbre of her voice.\" She had a large following among young women, who were nicknamed \"Gerry-flappers\".\n\nBased on that paragraph can we conclude that this sentence is true?\nAlice Geraldine Farrar was an American opera singer in her films.\n\nPick from:\nA). Yes.\nB). It's impossible to say.\nC). No."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What chemical compound, also known as H2O, is essential for all known forms of life and covers about 71% of the Earth's surface?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What is the answer: What is the name of the main character in John Osborne's 'Look Back In Anger'?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What musical instrument, invented in the early 20th century, uses electronic signals to produce sound and is often associated with science fiction and horror films?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Add spaces between the words in the following text: 9Forthezealofthinehousehatheatenmeup;andthereproachesofthemthatreproachedtheearefallenuponme."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "specially for the euro 2012 tournament, the city bought an ambulift which will be put into operation before june 2012.\nRepeat this setence, but with the correct capitalization."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What four-letter word refers to a Japanese art form that involves growing miniature trees in containers?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Escuela Politécnica Superior de Linares -  The Linares Advanced Technical College (in Spanish: Escuela Politécnica Superior de Linares) is an engineering school belonging to the University of Jaén since July 1 1993. It is located in the city of Linares Spain.This school was born as a result of the merger of the University Schools of Industrial Engineering and Mining Engineering existing in Linares until 1976. Given a choice of categories company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film or written work, the text refers to which one?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "This anagram of \"pan\" is a short sleep taken during the day."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Answer this question.\n\nWhich American city is served by 'Stapleton Airport'?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Imagine you are a historian specializing in visual arts. Draft an informative lecture script discussing the evolution and impact of photography from its invention to the present day, emphasizing key technological advancements and their influence on society and culture."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Who directed the groundbreaking 1999 science fiction film \"The Matrix\" along with their sibling?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Generate a short movie review that has \"B.\" sentiment (Select from the following. A. negative. B. positive.)."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Who was the first woman to win a Nobel Prize?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "u.n. peacekeepers backed by armored cars camped out wednesday around the home of a former rebel leader who is disputing congo 's election results and whose heavily armed fighters refused to be confined to military barracks .\nSummarize the aforementioned text in a single phrase."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "How does the sentence end?\n\nISLAMABAD, Pakistan (CNN) -- Barack Obama's election as president of the United States won't see a change in American relations with the Taliban, a senior Taliban leader in Pakistan says. A Taliban leader says Barack Obama's election will bring little change. \"For us, the change of America's president -- we don't have any good faith in him,\" said Muslim Khan, a grizzled Taliban spokesman who is one of the most wanted men in Pakistan, in a rare interview with CNN. \"If he does anything good, it will be for himself.\" With an assault rifle on his lap, Khan answered 10 written questions, sharing his view on a range of topics from slavery to Obama's middle name -- Hussein.\n\n\"\n\nOPTIONS:\n- America should take its army out of the country,\" Khan said.\n- American should take its army out of the country,\" Khan said.\n- Barack Obama should take its army out of the country,\" Khan said.\n- CNN should take its army out of the country,\" Khan said.\n- Hussein should take its army out of the country,\" Khan said.\n- ISLAMABAD should take its army out of the country,\" Khan said.\n- Khan should take its army out of the country,\" Khan said.\n- Muslim Khan should take its army out of the country,\" Khan said.\n- Obama should take its army out of the country,\" Khan said.\n- Pakistan should take its army out of the country,\" Khan said.\n- Taliban should take its army out of the country,\" Khan said.\n- U.S. should take its army out of the country,\" Khan said.\n- United States should take its army out of the country,\" Khan said.\n- al Qaeda should take its army out of the country,\" Khan said."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What Italian city, renowned for its canals and gondolas, hosts an annual international film festival that dates back to 1932?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Please answer the following question: Please answer the following question about this movie plot. If it's un-answerable, please output \"No answer\".  Question: What part of George's body caused him to be ineligible to serve in World War II? Movie plot title: It's a Wonderful Life Movie plot: This movie is about a divine intervention by a guardian angel, to help a man in distress. It opens with a a fanciful depiction of angels in heaven discussing a problem that has come up. They are receiving prayers from mortals, like \"Please, God, something's the matter with Daddy\". George Bailey (James Stewart) is about to kill himself, and they need to send an angel down to Earth to stop him. They select Clarence (Henry Travers), a somewhat down-on-his-luck angel who hasn't earned his wings yet, but who they decide is right for the job. The senior angels promise that Clarence will get his wings if he succeeds. The bulk of the movie is a replaying of George's life, by the senior angels and for Clarence's benefit, so that Clarence will understand George.George Bailey was a young man, living in a small town, but with big dreams. From an early age, he wanted to get away from Bedford Falls, travel the world, and accomplish big things--planning cities and building huge airfields, skyscrapers, and bridges. The first incident that Clarence sees is that, at age 12, George saved his younger brother Harry's (Todd Karns) life in an accident while playing on an ice-covered pond. George lost the hearing in his left ear due to being in the icy water. Shortly after that, while working part-time in Mr. Gower's (H.B. Warner) drug store, he prevents a mistake in a prescription from fatally poisoning someone. The two little girls in George's life at that point are Mary Hatch (Donna Reed) and Violet Bick (Gloria Grahame), who seem to be competing for his notice.George's father (Samuel S. Hinds), with a small staff including Uncle Billy (Thomas Mitchell), run a small Building and Loan company that finances mortgages for the people of Bedford Falls. They face a difficult battle with the evil, avaricious, and wealthy Henry Potter (Lionel Barrymore). Potter is on the board of directors of the Building and Loan, holds much of its assets, along with almost everything else in town, charges people exorbitant rent on his own apartments,...\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Compose a paragraph using only words beginning with the letter 'f'."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "How about a joke involving onions?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What element on the periodic table has the symbol 'Au' and is highly sought after for its value?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In J.R.R. Tolkien's Middle-earth, what is the Elvish word for friend, which also serves as a password into Moria?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What term, starting with 'P', refers to a legendary bird known for its life cycle of rebirth and destruction, also used metaphorically to signify something that has been reborn?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Read this article and answer this question Coming off their bye week the Titans flew to Sun Life Stadium for an AFC duel with the Dolphins. In the first quarter the Titans trailed early as RB Ronnie Brown got a 2-yard TD run. They replied with RB Chris Johnson getting a 17-yard TD run. They took the lead after kicker Rob Bironas nailed a 40-yard field goal. They fell behind after kicker Dan Carpenter made a 23 and a 26-yard field goal, which was soon followed by QB Chad Henne completing a 13-yard TD pass to RB Patrick Cobbs. The Titans replied with QB Vince Young completing a 14-yard TD pass to WR Nate Washington, but fell further behind after Carpenter got a 42-yard field goal, followed by QB Tyler Thigpen making a 9-yard TD pass to TE Anthony Fasano (With a failed 2-point conversion). Then DB Reshad Jones tackled in the end zone for a Dolphins safety.\nHow many yards was the longest touchdown pass?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Context: Quinn noticed Casey's dirty fingers so he dug Casey's fingers in order to clean them.  Question: What does Quinn need to do before this?  Which one of these answers best answers the question according to the context?  A: notice Casey's fingers  B: take Casey to school  C: stay clean\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Compare and contrast three woodworking joinery techniques, discussing their advantages and disadvantages in various applications."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In Greek mythology, which god is associated with the sun, music, poetry, and prophecy?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Which American rock band released the hit songs \"Hotel California\" and \"Take It Easy\"?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What South American country is known for its ancient ruins of Machu Picchu?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Question 1: Is the Suzuki Gixxer 150 good for new riders?\nQuestion 2: Which bike should I get? Royal Enfield classic (or) Apache 200 (or) Suzuki Gixxer? I am a city rider and my speed limits will mostly be 0-80kmph.\nPossible answers: (1). no (2). yes\nWould the answer to these two questions be the same?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Please answer the following question: Answer the question below:   If Milo makes an effort to use less resources in his day to day life, what will happen to the amount of waste he produces increase or decrease?    Assuming that:  Increased resource use generally means more waste; electronic waste from developed nations is a growing problem in the developing world.\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In this task, you will be presented with a context passage, a question about that paragraph, and a possible answer to that question. The task is to check the validity of the answer. Answer with \"Yes\" or \"No\".\n\nWhat if two children push a swing at the same time? Would the swing go higher? Yes, together their force would be more. It is common for forces to be combined. Most objects on Earth have at least two forces acting on them. Do you know what one of them is? Of course, that force is gravity. How many forces do you have on you right now? Gravity pulls you down toward the center of Earth. Your legs exert a downward force. They hold you up against the pull of gravity. Consider the example in Figure 1.3. A book is resting on a table. Gravity pulls the book downward. It has a force of 20 newtons. At the same time, the table pushes the book upward. Its force is also 20 newtons. The table opposes the pull of gravity. <sep>Do all objects on Earth have force?<sep>Yes"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In chemistry, what substance, symbolized by 'H', is the lightest element on the periodic table and fuels stars through nuclear fusion?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "-  The oxygen passes through the bronchial tubes to the lungs - The oxygen is moved into the bloodstream - Circulates through the body - The cells in the body exchange the oxygen with carbon dioxide - The bloodstream carries the carbon dioxide back to the lungs - The lungs expel the carbon dioxide through the nose and mouth.  What might be the first step of the process?\nThe answer to this question is:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "The historic city of Pompeii, famously destroyed by the eruption of Mount Vesuvius in 79 AD, is located in which modern-day European country?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Q:Information:  - Giacomo Agostini (born 16 June 1942) is an Italian multi-time world champion Grand Prix motorcycle road racer. Nicknamed Ago, with an absolute record of 122 Grand Prix wins and 15 World Championships titles. Of these, 68 wins and 8 titles came in the 500cc class, the rest in the 350cc class.  - The 24 Hours of Daytona, currently known as the Rolex 24 At Daytona for sponsorship reasons, is a 24-hour sports car endurance race held annually at Daytona International Speedway in Daytona Beach, Florida. It is run on a combined road course, utilizing portions of the NASCAR tri-oval and an infield road course. Since its inception, it has been held the last weekend of January or first weekend of February, part of Speedweeks, and it is the first major automobile race of the year in the United States. It is also the first race of the season for the WeatherTech SportsCar Championship.  - A motorcycle (also called a motorbike, bike, or cycle) is a two- or three-wheeled motor vehicle. Motorcycle design varies greatly to suit a range of different purposes: long distance travel, commuting, cruising, sport including racing, and off-road riding. Motorcycling is riding a motorcycle and related social activity such as joining a motorcycle club and attending motorcycle rallies.  - In North America, road racing is motor racing held on a paved closed circuit with both left and right turns. Road racing is therefore distinct from both off-road racing and oval track racing; the latter is common in North America and involves turning in only one direction (usually left, counter-clockwise). Road racing may be on purpose-built race tracks (called road courses) or on temporary circuits, such as closed-off airport runways and public roads, typically street circuits. A \"roval\" is a road course incorporating parts of an oval track and its infield, such as is used for the 24 Hours of Daytona at Daytona International Speedway.  - Valentino Rossi (born 16 February 1979) is an Italian professional motorcycle racer and multiple MotoGP World Champion. He is considered to be the greatest and one of the most successful , with nine Grand Prix World Championships to his name  seven of which are in the premier class.  - Michael `` Mick '' Sydney Doohan , AM ( born 4 June 1965 ) is an Australian former Grand Prix motorcycle road racing World Champion , who won five consecutive 500 cc World Championships . Only Giacomo Agostini with eight ( seven consecutive ) and Valentino Rossi with seven ( five consecutive ) have won more premier class titles .  - According to the International Civil Aviation Organization (ICAO), a runway is a \"defined rectangular area on a land aerodrome prepared for the landing and takeoff of aircraft\". Runways may be a man-made surface (often asphalt, concrete, or a mixture of both) or a natural surface (grass, dirt, gravel, ice, or salt).    After reading the paragraphs above, choose the best answer for the entity that related to 'mick doohan' with the relationship of 'occupation'.  Choices: - aviation  - major  - motorcycle racer  - travel\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Here is a goal: To keep water from coming out the end of an airbrush and ruining the paint.\n\nWhich way makes more sense to accomplish this goal?\n\nAvailable options: *Attach an air filter on both ends of the air line. *Attach a coffee filter on both ends of the air line."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Our shuttle arrived over 45 minutes late. I'm just glad I wasn't the girls next to us who waited almost 2 hours because their bus never showed up.\nWas this review given positively or negatively?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Known for its distinctive black and white markings, this species of bear is native to the mountainous regions of China and feeds primarily on bamboo. What is it called?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In what American city, known for its deep-dish pizza and windy weather, can you find the Art Institute of Chicago?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "The iconic Hollywood sign, originally created as an advertisement for a real estate development, is located in which U.S. city?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "On which popular science fiction TV show did Captain Picard command the starship Enterprise?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Fact 1: Aship is used for moving people across bodies of water.  Fact 2: Transportation is the moving of people or things from place to place.  Given the two facts above, a ship is an example of what?\n\nChoose your answer from: (I). Space travel; (II). Submarine; (III). mechanical waves; (IV). complexity; (V). Water transportation; (VI). Something formed from skeleton; (VII). Land vehicle; (VIII). objects that have mass;\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "The Battle of Waterloo, where Napoleon Bonaparte was defeated, took place in which present-day country?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Given the question: Information:  - The Iezerul Mic is a headwater of the Râul Mare in Romania .  - Romania is a sovereign state located in Southeastern Europe. It borders the Black Sea, Bulgaria, Ukraine, Hungary, Serbia, and Moldova. It has an area of and a temperate-continental climate. With 19.94 million inhabitants, the country is the seventh-most-populous member state of the European Union. The capital and largest city, Bucharest, with its 1,883,425 inhabitants is the sixth-largest city in the EU.  - Bulgaria (tr. '), officially the Republic of Bulgaria (tr. '), is a country in southeastern Europe. It is bordered by Romania to the north, Serbia and Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east. With a territory of , Bulgaria is Europe's 16th-largest country.  - Serbia, officially the Republic of Serbia, is a sovereign state situated at the crossroads of Central and Southeast Europe, covering the southern part of the Pannonian Plain and the central Balkans. Relative to its small territory, it is a diverse country distinguished by a \"transitional\" character, situated along cultural, geographic, climatic and other boundaries. Serbia is landlocked and borders Hungary to the north; Romania and Bulgaria to the east; Macedonia to the south; and Croatia, Bosnia-Herzegovina, and Montenegro to the southwest; it also claims a border with Albania through the disputed territory of Kosovo. Serbia numbers around 7 million residents, and its capital, Belgrade, ranks among the largest cities in Southeast Europe.  - The Black Sea is a body of water between Eastern Europe and Western Asia, bounded by Bulgaria, Georgia, Romania, Russia, Turkey, and Ukraine. It is supplied by a number of major rivers, such as the Danube, Dnieper, Rioni, Southern Bug, and Dniester. The Black Sea has an area of (not including the Sea of Azov), a maximum depth of , and a volume of . It is constrained by the Pontic Mountains to the south and by the Caucasus Mountains to the east, and features a wide shelf to the northwest. The longest east-west extent is about .  - Moldova (or sometimes ), or Moldavia, officially the Republic of Moldova, is a landlocked country in Eastern Europe, bordered by Romania to the west and Ukraine to the north, east, and south. The capital city is Chiinu.  - The European Union (EU) is a political and economic union of member states that are located primarily in Europe. It has an area of , and an estimated population of over 510 million. The EU has developed an internal single market through a standardised system of laws that apply in all member states. EU policies aim to ensure the free movement of people, goods, services, and capital within the internal market, enact legislation in justice and home affairs, and maintain common policies on trade, agriculture, fisheries, and regional development. Within the Schengen Area, passport controls have been abolished. A monetary union was established in 1999 and came into full force in 2002, and is composed of 19 EU member states which use the euro currency.  - Ukraine (tr. ) is a sovereign state in Eastern Europe, bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast, respectively. Ukraine is currently in territorial dispute with Russia over the Crimean Peninsula which Russia annexed in 2014 but which Ukraine and most of the international community recognise as Ukrainian. Including Crimea, Ukraine has an area of , making it the largest country entirely within Europe and the 46th largest country in the world. It has a population of about 44.5 million, making it the 32nd most populous country in the world.  - A sovereign state is, in international law, a nonphysical juridical entity that is represented by one centralised government that has sovereignty over a geographic area. International law defines sovereign states as having a permanent population, defined territory, one government, and the capacity to enter into relations with other sovereign states. It is also normally understood that a sovereign state is neither dependent on nor subjected to any other power or state.  - Continental climates are defined in the Köppen climate classification has having a coldest month mean temperature below -3 C (26.6 F) or 0 °C depending on which isotherm used for the coldest month and four months above 10 °C. In the Köppen climate system, Continental climates were bordered to the south by Temperate climates or C climates (coldest month above 0 C, but below 18 C) and to the north by Boreal climate or E climates (only 1 to 3 months with a mean temperature of 50 F). Köppen also defined continental climates as having more than 30 days with continuous snowcover on the ground.   - Bucharest is the capital and largest city of Romania, as well as its cultural, industrial, and financial centre. It is located in the southeast of the country, at , on the banks of the Dâmbovia River, less than north of the Danube River and the Bulgarian border.  - Hungary is a unitary parliamentary republic in Central Europe. It covers an area of , situated in the Carpathian Basin and bordered by Slovakia to the north, Romania to the east, Serbia to the south, Croatia to the southwest, Slovenia to the west, Austria to the northwest, and Ukraine to the northeast. With about 10 million inhabitants, Hungary is a medium-sized member state of the European Union. The official language is Hungarian, which is the most widely spoken Uralic language in the world. Hungary's capital and largest metropolis is Budapest, a significant economic hub, classified as an Alpha- global city. Major urban areas include Debrecen, Szeged, Miskolc, Pécs and Gyr.    Given the information above, choose from the list below the object entity that exhibits the relation 'instance of' with the subject 'iezerul mic river'.  Choices: - 1  - area  - balkans  - body of water  - border  - capital  - city  - classification  - climate  - country  - economic union  - financial centre  - government  - home  - hungary  - international law  - landlocked country  - law  - market  - member  - metropolis  - month  - official  - part  - peninsula  - republic  - river  - sea  - sovereign state  - state  - temperature  - territorial dispute  - territory  - union  - volume\nThe answer is:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Which Shakespearean play features the characters Macduff, Banquo, and Lady Macbeth?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "You will be given a definition of a task first, then some input of the task.\nIn this task, you're given four sentences of a story written in natural language. The given story is not complete and your job is to complete the story by selecting one of the end sentence choices from (A) and (B), such that the story does not sound complete and coherent, i.e., select an incorrect end sentence.\n\nSentence1: The boys and I went to the beach today. Sentence2: We took along a frisbee and a ball. Sentence3: While playing in the water some other people joined in. Sentence4: It was great making new friends. \n (A) I really enjoyed meeting some new boys. (B) All in all, it was a great day hiking.\nOutput:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In this task, you will use your knowledge about language (and common sense) to determine what element the marked number refers to. The numbers are marked with two underlines around them, like: _ number _. Your answer should be chosen from the given text, and should not contain other words.\n\nSteve Urkel:  I 've never tried out for athletics before and the equipment list says that every guy should wear a cup .\nCoach Westfield: That 's right .\nSteve Urkel: Well , I did n't have _ one _ . So , is it all right with you ? I 'm wearing a Bart Simpson 's mug ."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What is the name of the French sculptor who created the iconic Statue of Liberty that stands in New York Harbor?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Who was the British Prime Minister during World War II, known for his inspiring speeches and strong leadership against Nazi Germany?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Q:Information:  - The Johns Hopkins Bloomberg School of Public Health (JHSPH) is part of Johns Hopkins University in Baltimore, Maryland, United States. As the first independent, degree-granting institution for research and training in public health, and the largest public health training facility in the United States, the Bloomberg School is a leading international authority on the improvement of health and prevention of disease and disability. The school's mission is to protect populations from illness and injury by pioneering new research, deploying its knowledge and expertise in the field, and educating scientists and practitioners in the global defense of human life. The school is ranked first in public health in the \"U.S. News and World Report\" rankings and has held that ranking since 1994.  - The Johns Hopkins University (commonly referred to as Johns Hopkins, JHU, or simply Hopkins) is an American private research university in Baltimore, Maryland. Founded in 1876, the university was named for its first benefactor, the American entrepreneur, abolitionist, and philanthropist Johns Hopkins. His $7 million bequestof which half financed the establishment of The Johns Hopkins Hospitalwas the largest philanthropic gift in the history of the United States at that time. Daniel Coit Gilman, who was inaugurated as the institution's first president on February 22, 1876, led the university to revolutionize higher education in the U.S. by integrating teaching and research. Adopting the concept of a graduate school from Germany's ancient Heidelberg University, Johns Hopkins University is considered the first research university in the United States.  - Public health refers to \"the science and art of preventing disease, prolonging life and promoting human health through organized efforts and informed choices of society, organizations, public and private, communities and individuals.\" It is concerned with threats to health based on population health analysis. The population in question can be as small as a handful of people, or as large as all the inhabitants of several continents (for instance, in the case of a pandemic). The dimensions of health can encompass \"a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity,\" as defined by the United Nations' World Health Organization. Public health incorporates the interdisciplinary approaches of epidemiology, biostatistics and health services. Environmental health, community health, behavioral health, health economics, public policy, insurance medicine, mental health and occupational safety and health are other important subfields.  - Katherine L. O'Brien is a recognized international expert in the areas of pneumococcal epidemiology , pneumococcal vaccine trials and impact studies , and surveillance for pneumococcal disease . She is also known as an expert in infectious diseases ( including pneumonia and diarrheal diseases ) in American Indian populations . She is a pediatric infectious disease physician , epidemiologist , and a Professor at The Johns Hopkins Bloomberg School of Public Health in the Department of International Health . She is the head of the Infectious Disease Group at the Center for American Indian Health and is the Deputy Director of the International Vaccine Access Center , an organization dedicated to accelerating global access to life - saving vaccines .    What entity does 'katherine o'brien' has the relation 'employer' with?\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Trivia question: In 1956 who became the first European Footballer of the Year?\nAnd the answer is?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Question: Read the article and select the best answer. Article: Michael and Dick are good friends, but they like to play jokes on each other. One holiday, they decided to go to London together. They went to the station and bought their tickets. Michael got on the train first. He dropped his ticket on the platform when he got into the carriage. Dick, who was close behind, saw the ticket fall and quickly picked it up. He put it in his pocket, but didn't tell Michael. After they had been in the train for a while, they heard the conductor coming down the corridor, shouting, \"Tickets, please!\" Michael looked for his ticket and of course couldn't find it. \"Oh dear, I can't find my ticket, Dick,\" Michael said. \"Look for it carefully, Michael; it must be somewhere.\" said Dick. \"No, I can't find it anywhere. What shall I do?\" said Michael. \"Perhaps you'd better hide under the seat; then the conductor won't know you are here.\" So Michael hid under the seat. At this time, the conductor came in. \"Tickets, please,\" he said. Dick handed him tow tickets and said, \"This is mine. The other is my friend's. But he prefers to stay under the seat.\" Question: Michael and Dick would spend their holiday in  _  . Options: A: train B: London C: Pairs D: Rome\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Write a multi-choice question for the following article: Article: Barack Obama, a black man, is the president of the United States now. He was born on August 4th, 1961, in Hawaii and has lived in many places. His mother was from Kansas and his father was from Kenya. Obama went to Columbia University in New York and got a law degree at Harvard University in Massachusetts. His wife is Michelle Obama. She also worked as a lawyer   and later worked for the University of Chicago. They have two young daughters. Obama wrote a bookDreams from My Father. \"I always live in the dream of my father and American people, \" Obama once said. He was born in a poor family. And he was taken good care of by his grandparents when he was young. He also lived and worked in Africa. Then he got good education in Harvard University. On November 4th, 2008, he became the president of America for the first time.\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In what kind of TV setting did Captain Picard and his crew on 'Star Trek: The Next Generation' live?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Can we draw the following hypothesis from the context (see options)? \n\nContext:\n\nArthur John Duckworth (born 19 January 1949) is a former Australian rules footballer who played for Fitzroy in the Victorian Football League (VFL), West Perth in the West Australian National Football League (WANFL), and Central District in the South Australian National Football League (SANFL). He is the older brother of former Essendon footballer Billy Duckworth.\n\nHypothesis: Arthur John Duckworth played in 3 different football leagues\npick from the following.\n(I) Yes.\n(II) It's impossible to say.\n(III) No."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Write a sentence that about [The Eagle eatType restaurant; The Eagle food English; The Eagle customer rating 5 out of 5]."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Add punctuation to the following sentence: Rear Admiral Kimmel CommanderinChief of the Pacific Fleet at the time says of another admirals belief that President Roosevelts plans required that no word be sent to alert the fleet in Hawaii that the individuals in high position in Washington who wilfully refrained from alerting our forces at Pearl Harbour should never be excused"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What goes up and down but doesn't move?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "This Italian dish consists of thinly sliced raw meat or fish, typically served as an appetizer. What is it called?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "The iconic Eiffel Tower is located in which European city?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What chemical element with symbol Ag and atomic number 47 is commonly used in jewelry, tableware and coins?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Generate a sentence about this data: Above the Veil, oclcNumber, 46451790; Above the Veil, author, Garth Nix; Above the Veil, mediaType, \"Print\""
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "The enigmatic character Heathcliff has a tumultuous love story in what novel by Emily Bronte?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "I’ve learnt a great amount throughout this studio, first and foremost I was taught: how the art world functions, how specific galleries such as Gertrude St Contemporary run and how artists earn a living. The studio also provided me with basic filmmaking skills such as how to: create a shooting schedule, write a shooting script, set up three-point lighting, conduct an interview, utilise visual storytelling and edit a short film. Throughout the shooting process with my artist I also developed my abilities regarding how to use a: Sony Zoom H2N (and other such handy recorders), a lapel mic, my own Canon EOS 60D and Adobe Premiere Pro editing software. Overall I think the studio functioned quite successfully, it was great to be in a studio with nineteen people who all were interested in the same topics as you. I felt that overall, the studios had a very happy and supportive environment, and you walked away knowing a great deal about the art world and how to make short documentaries. The project itself taught me a great deal about how to work with talent, as well as my group members. Having to work independently forced me to be completely all over every aspect of the shoot, whether that be choosing which questions to ask, deciding what to focus on, where I wanted the shoot to happen, deciding what gear to use, getting to the shoot, carrying all the gear, what I wanted to shoot, managing the audio, managing the lighting, managing the camera set-ups, managing the talent, editing the film, and finding a great soundtrack for it. I’m a pretty self-conscious person and I often doubt the decisions I make or ask someone else for their opinion (should I shoot this angle, or what do you think of this question etc.). Working independently pushed me to go with my gut instincts, to make decisions and to not seek others approval. It forced me to develop my aesthetic as a filmmaker and to own the work that I ended up producing, so ultimately I was really glad with how everything panned out. According to the above context, choose the correct option to answer the following question. Question: After the end of the story, the narrator probably still is Options:  A. A developer  B. A filmmaker  C. not enough information  D. A writer\nThe answer to this question is:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Answer the following question: Please answer the following question about this movie plot. If it's un-answerable, please output \"No answer\".  Question: With whom has a photo op arranged for Whale ? Movie plot title: Gods and Monsters Movie plot: The story opens in the 1950s, after the Korean War; it has been more than a decade since James Whale, director of Frankenstein and Bride of Frankenstein, has retired. He lives with his long-time housemaid, Hanna, who loyally cares for him but disapproves of his homosexuality. Whale has suffered a series of strokes that have left him fragile and tormented by memories: growing up as a poor outcast, his tragic World War I service, and the filming of The Bride of Frankenstein. Whale slips into his past, and indulges in his fantasies, reminiscing about gay pool parties and also sexually teasing an embarrassed, starstruck fan who comes to interview him. Whale battles depression, at times contemplating suicide, as he realizes his life, his attractiveness, and his health are slipping away. Whale befriends his young, handsome gardener and former Marine, Clayton Boone and the two begin a sometimes uneasy friendship as Boone poses for Whale's sketches. The two men bond while discussing their lives and dealing with Whale's spells of disorientation and weakness from the strokes. Boone, impressed with Whale's fame, watches The Bride of Frankenstein on TV as his friends mock the movie, his friendship with Whale, and Whale's intentions. Boone assures Whale that he is straight and receives assurance from Whale that there is no sexual interest, but Boone storms out when Whale graphically discusses his sexual history. Boone later returns with the agreement that no such \"locker room\" discussions occur again. Boone is invited to escort Whale to a party hosted by George Cukor for Princess Margaret. There, a photo op has been arranged for Whale with \"his Monsters\": Boris Karloff and Elsa Lanchester from \"ancient\" movie fame. This event exacerbates his depression. A sudden rain storm becomes an excuse to leave. Back at Whale's home, Boone needs a dry change of clothes. Whale can only find a sweater, so Boone wears a towel wrapped around his waist. Whale decides to try to sketch Boone one more time. After some minutes, he shows his...\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "I can use this background: Greenhouse Effect: The solar energy reaching the surface of the Earth is concentrated in short wavelengths, which can easily penetrate the greenhouse gases, such as carbon dioxide and methane. The Earth, however, is cooler than the sun and it radiates its heat in the form of energy in the far infrared range. These longer wavelengths are partially absorbed by the greenhouse gases and some of the solar heat is returned to Earth. At a certain temperature these processes are in equilibrium and the surface temperature of the Earth is stable. However, if more greenhouse gases are put in the atmosphere the amount of trapped terrestrial radiation increases, leading to an increase in global temperature.  Now, I have a new situation: David was visiting the natural history museum. He noticed two charts that showed the climatic conditions of the earth in two time periods, time A and time B. Time A showed earth's overall climate in the sixteenth century when there were less greenhouse gases in the atmosphere. And time B showed earth's overall climate in the present century with more greenhouse gases in the atmosphere. David found some interesting differences between these two charts.  Answer this question please: Which period would see more trapped terrestrial radiation, time A or time B?\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In what popular video game series do players control an Italian-American plumber named Mario as he rescues Princess Peach from the villainous Bowser?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Definition: In this task, you are given two phrases: Head and Tail, separated with <sep>. The Head and the Tail events are short phrases possibly involving participants. The names of specific people have been replaced by generic words (e.g., PersonX, PersonY, PersonZ). PersonX is always the subject of the event. You have to determine whether it is plausible for the Head to desire the Tail or not. In this task, desire means desires of sentient entities. For example, doctors likely desire to cure a patient. Classify your answers into \"Yes\" and \"No\". The phrase may also contain \"___\", a placeholder that can be an object, a person, and/or an action.\nInput: Head: PersonX answers the door<sep>Tail: talk to PersonX\nOutput:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "I say to the government, to the people of this country and certainly to members of parliament that it is our duty and responsibility to ensure that we are not led down the garden path by ideologies put forward by extremely passionate interventionists, if I can use the term used by the member for Broadview-Greenwood.\n\nBased on that paragraph can we conclude that this sentence is true?\n it is not our duty and responsibility to ensure that we are not led down the garden path \n\nChoose from: (1). Yes (2). It's impossible to say (3). No"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Tato situace má celou řadu příčin, které jsou velice jasně artikulovány ve znění usnesení, o němž tu dnes hovoříme, přičemž tou nejdůležitější je vysoká cena obilovin.\n\nTranslate this to English?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Read the below conversation.  W: Hi, John! I'd like to invite you to dinner this evening.  M: To dinner? What for?  W: I have passed my driving test!  M: Congratulations! I'm really glad to hear that.  W: Thank you! I have been preparing for it for half a year, you know. And I've made it at last.  M: So, where shall we have our dinner?  W: How about the Friendship Hotel? I like the food and service there.  M: I agree. I'll take you there in my car.  What would the listener say?\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Teacher:Classify the input text into either disfluent questions or proper questions. A disfluent question is a question that has some interruptions in it while framing. A proper question is the correct form of the question without any disfluency.\nTeacher: Now, understand the problem? Solve this instance: What had the number of people living in Warsaw declined to by 1945?\nStudent:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "The 1976 Summer Olympics were held in which Canadian city?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Generate a short movie review that has \"ii.\" sentiment (Select from: i. negative ii. positive)."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What chemical element, symbol Au, is commonly used in jewelry and is associated with wealth and luxury?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Welcome to the Isle of Náttúra, a secluded island nestled within an archipelago in the midst of the vast ocean. This ethereal landmass is characterized by its diverse landscape: lush emerald forests teeming with life, cascading waterfalls that sparkle like diamonds under the sun's rays, and towering mountains whose peaks pierce the heavens. The air here is crisp and invigorating, carrying with it the scents of blooming flowers and damp earth.\n\nGuide me through this otherworldly adventure."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What is the name of the fictional country where the Black Panther, a Marvel superhero, serves as king?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "hey"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "280500 Alkali or alkalineearth metals rareearth metals scandium and yttrium whether or not int\n\nCan you repeat this sentence, but add in punctuation?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What can be heard and caught but never seen?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "This American author, known for his works of horror and suspense, penned the novel 'The Shining' which later became a classic film. Who is he?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In music theory, what term refers to the distance between two pitches or notes?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What type of animal is a bonobo, found primarily in the Democratic Republic of Congo?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What famous American author wrote the novel 'The Old Man and the Sea', which won the Pulitzer Prize for Fiction in 1953?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In this task you will be given a string of characters. You should remove all vowels from the given string. Vowels are: i,e,a,u,o. The character 'y' or 'Y' does not count as a vowel.\nQ: eIUoTdAEmGvpK\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What iconic American city is known as \"The Big Apple\"?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What British author, known for his works on Middle Earth, shares his last name with a term used to describe a circular piece of jewelry?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Read this and answer the question\n\nDespite significant European success during the 1970s and early 1980s, the late '80s had marked a low point for English football. Stadiums were crumbling, supporters endured poor facilities, hooliganism was rife, and English clubs were banned from European competition for five years following the Heysel Stadium disaster in 1985. The Football League First Division, which had been the top level of English football since 1888, was well behind leagues such as Italy's Serie A and Spain's La Liga in attendances and revenues, and several top English players had moved abroad.\n\nHad the Football League First Division ever been in the top level?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Miksi?\n\nTranslate this to English?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Would the following phrase be considered positive or negative?\n\nanother visit"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Write a title for this article:\n\nNEW YORK (AP) – A handful of protesters did their best to occupy New York City's Zuccotti Park on Wednesday, a day after metal barricades surrounding it came down.\n\nAdam Farooqui holds a sign as he stands at Zuccotti Park on Wednesday in New York.\n\nAdam Farooqui holds a sign as he stands at Zuccotti Park on Wednesday in New York.\n\n\"We need to have a symbolic presence,\" said Ned Merrill, 52, a blanket draped over his shoulder.\n\nHe spoke as workers for Brookfield Office Properties, which owns the plaza, maneuvered around the scattered protesters with steam cleaners. The barricades that came down Tuesday were chained together and neatly stacked at the north end of the park.\n\nOn Tuesday, about 300 protesters filled Zuccotti after the barricades were taken down.\n\nPolice spokesman Paul Browne said the New York Police Department and Brookfield had been talking about removing the barriers last week. The decision was made to remove them Tuesday because officials felt they were no longer necessary, Browne said.\n\nMerrill said it's important for at least a few protesters to be at Zuccotti at all times. He said he's been there from midnight to about 10 a.m. most nights since Dec. 1.\n\n\"Most people in American know that something is wrong,\" he said. \"Much of what is wrong is that money owns the political process.\"\n\nRobert Segal, who is 47 and works in a wine store, also spent Tuesday night at Zuccotti.\n\n\"The rest of the world want a place where they can come down and join Occupy Wall Street at critical moments,\" he said.\n\nTents and sleeping bags have been banned from Zuccotti Park since a Nov. 15 police raid evicted protesters who had been sleeping there since Sept. 17.\n\nMerrill said security guards have prevented him from sitting on a piece of plastic foam when he spends the night there. They told him it was considered bedding, he said.\n\nOn Monday, civil rights groups filed a complaint with the city's buildings department saying the barricades were a violation of city zoning law.\n\nThe granite plaza a few blocks from the New York Stock Exchange is a privately owned public park. It is required to be open 24 hours under city zoning laws.\n\nCopyright 2012 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.\n\n, visit our FAQ's. To report corrections and clarifications, contact Standards Editor\n\n. For publication consideration in the newspaper, send comments to\n\n. Include name, phone number, city and state for verification. To view our corrections, go to\n\nUSA TODAY is now using Facebook Comments on our stories and blog posts to provide an enhanced user experience. To post a comment, log into Facebook and then \"Add\" your comment. To report spam or abuse, click the \"X\" in the upper right corner of the comment box. To find out more, read the\n\nHow about a refresher as to what the OWS protesters have accomplished in all of their previous months while defacing our public parks: 1. Their Boy Scout skills have been honed to a 'T' and merit badges will be forthcoming. 2.\n\nTitle:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Use the following highlights to write an article:\n\nThe Today show co-host updated her Facebook profile with a grinning image of her tightly holding her newborn daughter. Guthrie, who is on maternity leave, has been keeping fans updated on her daughter's progress since her birth on August 13."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "You find yourself in the heart of an ethereal cityscape, nestled within a valley that is shrouded by towering, luminescent mountains. The sky above is painted with hues of lavender and cerulean, as celestial bodies gracefully dance across the heavens. This realm appears to be an amalgamation of various architectural styles from Earth's history, yet infused with otherworldly materials and technology.\n\nGuide me through this transcendent exploration."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Welcome to the heart of a gargantuan clock tower, nestled within an ancient city floating high above the clouds. The architectural marvels that surround you are crafted from gleaming obsidian and shimmering quartz, reflecting the golden rays of the sun as it sets upon the horizon. As you stand at the base of this immense structure, you can hear the rhythmic ticking of gears and cogs echoing throughout the vast chamber.\n\nPlease guide me through this wondrous adventure."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Who wrote the dystopian novel \"1984\", featuring a totalitarian regime that uses Newspeak to limit freedom of thought?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What does no man want, yet no man want to lose?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What body of water separates Saudi Arabia from Iran and extends about 990 miles from the Shatt al Arab river delta to the Strait of Hormuz?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Welcome to the Isle of Náttúra, a secluded island nestled within an archipelago in the midst of the vast ocean. This ethereal landmass is characterized by its diverse landscape: lush emerald forests teeming with life, cascading waterfalls that sparkle like diamonds under the sun's rays, and towering mountains whose peaks pierce the heavens. The air here is crisp and invigorating, carrying with it the scents of blooming flowers and damp earth.\n\nGuide me through this otherworldly adventure."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What 19th-century novel by Charles Dickens features the character of Pip, an orphan who becomes a gentleman through an anonymous benefactor?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What popular board game involves buying and trading properties, and is named after a high-end street in Atlantic City?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Which superhero, created by Stan Lee and Jack Kirby, gains his powers from exposure to gamma radiation during a failed experiment?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Answer based on context:\n\nThe Jets began their 2007 campaign at home for a Week 1 divisional match-up with the New England Patriots.  In the first quarter, New York immediately trailed as QB Tom Brady completed an 11-yard TD pass to WR Wes Welker for the only score of the period.  In the second quarter, the Jets tied the game with QB Chad Pennington completing a 7-yard TD pass to WR Laveranues Coles.  However, the Patriots retook the lead with Brady completing a 5-yard TD pass to TE Benjamin Watson. On the opening kickoff for the third quarter, New York trailed even more as CB Ellis Hobbs returned the kickoff an NFL record 108&#160;yards for a touchdown.  Afterwards, New England continued his onslaught as Brady completed a 51-yard TD pass to WR Randy Moss.  The Jets would get their last score of the game with Pennington & Coles hooking up with each other again on a 1-yard TD pass.  In the fourth quarter, the Patriots would take over for the rest of the game as kicker Stephen Gostkowski nailed a 22-yard field goal, while FB Heath Evans ended the game with a 1-yard TD run. With the loss, New York began its season at 0-1 while the Patriots began 1-0. On September 10, Patriots coach Bill Belichick was accused by the Jets of authorizing his staff to film the Jets' defensive signals from an on-field location, a violation of league rules. The Jets confiscated the video camera used by video assistant Matt Estrella to film the signals during the game and filed a complaint to the league office, detailing the accusations. On September 13, Belichick was officially fined $500,000, while the Patriots were also fined $250,000, and forfeited their first round draft pick in the 2008 NFL Draft. If the Patriots had missed the playoffs, they would have instead forfeited their second and third round selections in the 2008 draft. Goodell said that he fined the Patriots as a team because Belichick is effectively the team's general manager as well as head coach, and exercises so much control over the Patriots' on-field operations that \"his actions and decisions are properly attributed to the club.\" Goodell considered suspending Belichick, but decided that taking away draft picks would be more severe in the long run. Belichick later issued a statement in which he apologized for what he called a \"mistake\" in his interpretation of the rules. However, he denied ever using videotape to gain an advantage while a game was underway.\n\nWhich team scored the last points of the game?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "African football's ruling body, the Confederation of African Football, has called for a thorough investigation into how 15 fans died at a league match in the Democratic Republic of Congo. The fatalities occurred after a stampede broke out in the closing stages of Sunday's decisive meeting between the country's biggest clubs, AS Vita Club and TP Mazembe. Reports state that trouble flared after fans of home side Vita started throwing missiles onto the pitch with their team trailing 1-0 in a game where the victor would take the title. The police responded by firing tear gas whereupon a stampede for the exit gates led to chaotic scenes of overcrowding, resulting in the deaths and injuries to over 20 others. On its website, the Confederation of African Football (CAF) said the stampede 'caused the collapse of a wall and a gate of the Tata Raphael stadium'. The match was taking place in the Congolese capital Kinshasa, at the stadium that staged the legendary 'Rumble in the Jungle' boxing bout between Muhammad Ali and George Foreman in 1974. \"I wish to reemphasize that any acts of violence have no place in football,\" CAF President Issa Hayatou told cafonline.com. \"They must be condemned in the strongest possible terms and I urge FECOFA (the Congolese FA) and authorities in DR Congo to thoroughly investigate this matter and ensure that measures (are) put in place to avoid a repeat of any incidents.\" The long-serving Cameroonian also demanded that CAF be kept abreast of any proposed security measures. Kinshasa governor Andre Kimbuta has already set up a commission of inquiry to investigate the disaster. \"On behalf of FIFA and in my own name, I offer you, and the Congolese FA, my sincerest condolences,\" wrote FIFA President Sepp Blatter in a letter to the President of FECOFA. \"I would be most grateful if you would pass on the deep sympathy and support of the entire international football community to the families, loved ones and clubs of the deceased and victims at this very difficult time.\" \"May this message soften their pain and bring them support and comfort.\" At FIFA's headquarters in the Swiss city Zurich, the flags of both DR Congo and CAF were flown at half-mast in a sign of mourning. The disaster is the worst at a Congolese football match since a game in Butembo in 2008, when 13 spectators -- many of whom were children -- died after police fired tear gas into the crowd shortly after stones had been thrown by the fans. Six years on, a similar set of circumstances has sparked a further devastating loss of life. The two teams are set to meet again on the weekend of May 24-25 in the group stages of the African Champions League. CAF is considering whether to play the match between AS Vita, crowned African champions in the 1970s, and four-time continental winners Mazembe behind closed doors. Mazembe stunned the footballing world in 2010 when becoming the first African side to reach the final of FIFA's Club World Cup, but their name may now conjure up far sadder emotions.\n\nWrite highlights for this article."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "You see a cabin with two doors. One door leads to certain death and the other door leads to life. There are two guards, one in front of each door. One guard always tells the truth and the other always lies. You do not know which guard is which, nor which door leads to life. You can ask only one question to one of the guards. What should you ask to find the door that leads to life?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Detailed Instructions: A text is given in Gujarati. Translate it from the Gujarati language to the Urdu language. The translation must not omit or add information to the original sentence.\nProblem:وزیراعظم نے اس موقع پر کہا کہ بھارت فرانس کے بیچ اسٹریٹجک شراکت داری صرف دو طرفہ تناظر تک ہی محدود نہیں ہے بلکہ علاقائی اور عالمی تناظر میں بھی یہ امن اور استحکام کیلئے ایک طاقت کی حیثیت سے اپنا رول ادا کرتی ہے۔\nSolution:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Anket kuruluşları Marten Board International ve Faktor Plus'ın ikisi de Bogdanoviç ve Vuciç'in Pazar günkü seçimlerde yüzde 25'er oy alacaklarını tahmin ediyorlar.\n\nCould you please translate this to English?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Concepts: cloud, facade, sky\n\nWrite a sentence that includes all these words."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Acestea conţin sarcini care trebuie îndeplinite în vederea orientării ţării spre aderarea la NATO.\n\nTranslate to English\n\nEnglish:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Answer the following question: I am trying to decide whether it's worth it to invest in this film proposal. Can you help me answer a few questions? If you can't, please say \"No I can't\".  Question: How many children have to be in the circle? Movie title: Darkness Movie plot: Theres something in this house... Something ancient and dark that remains still, hidden and silent. It can only wait, having been concealed in the shadows for years. In fact, its milieu is darkness. Only in it can it show itself and move. It even takes its name: DARKNESS. Its lived here since someone tried to call it, more than forty years ago. Because this house hides a secret, a terrible past, an inconceivably evil act Seven children, faceless people, a circle that must be completed. And blood, lots of blood But something went wrong. One of the children got away. The circle wasnt completed. Thats why what lives here isnt finished. Its just waiting It tries to carry out what it couldnt before, making plans in the shadows, to become complete, to be, to exist A new family has just moved into the house. A small child. An unstable father capable of losing his temper at any time. A perfect target. The right place at the right time. The pieces only have to be put in place. And then wait...\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Bábi tak měla jako jedna z pouhopouhých několika žen zjistit, co mágo-vé ve skutečnosti nosí pod svými rozevlátými rouchy, ale poctivě odvrátila oči a následovala dívku po dláždění a dolů širokým schodištěm.\n\nTranslate to English"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What type of animal is the national symbol of the United States?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "A self-titled album released in 1971 by which American singer-songwriter known as 'The Boss' is considered one of his best works?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Q:Suggest a movie title for the following movie plot: Stanley Ipkiss is a shy and unlucky bank clerk working at the local Edge City bank. He is frequently ridiculed by everyone around him, except for his Jack Russell Terrier Milo, and his co-worker and best friend Charlie Schumaker. Meanwhile, gangster Dorian Tyrell, owner of the Coco Bongo nightclub, plots to overthrow his boss Niko. One day, Tyrell sends his singer girlfriend Tina Carlyle into Stanley's bank to record its layout, in preparation to rob the bank. Stanley is attracted to Tina, and she seems to reciprocate. After being denied entrance to the Coco Bongo, he finds a wooden mask near the city's harbor. Placing it on his face transforms him into a zoot-suited, green-faced, bizarre trickster known as the Mask, who is able to cartoonishly alter himself and his surroundings at will. Stanley scares off a street gang that attempts to rob him by turning a balloon into a Tommy gun, and then he exacts revenge on his tormentors; he scares his grouchy landlady, and injures the con-artist repairmen who did unnecessary work on his car and charged him for it. The next morning, Stanley encounters detective Lieutenant Kellaway and newspaper reporter Peggy Brandt investigating the Mask's activity of the previous night. To attend Tina's performance, he again becomes the Mask to raid the bank, inadvertently foiling Tyrell's plan in the process. At the Coco Bongo, Stanley dances exuberantly with Tina, whom he ends up kissing. Following a confrontation with Tyrell for disrupting the bank robbery, Stanley flees leaving behind a scrap of cloth from his suit that transforms back into his pajamas, while Tyrell is arrested by the police as a suspect for the bank robbery. Based on the shred of cloth, Kellaway suspects Stanley to be the bank robber; he believes that \"there can't be two idiots with those kind of pajamas.\" Stanley later consults a psychiatrist who has recently published a book on masks, and is told that the object may be a depiction of Loki, the Norse god of darkness and mischief. The same night, Stanley...\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Given those answer options, answer the question: Based on this review, would the user recommend this product? === Review: I bought my first Lodge cast iron skillet about 5 months ago and love it! No more teflon flakes to eat (ugh). This skillet has two handles which provide easier handling. Just remember - no soap. Buy the Lodge scrubber, scrub it with water only, wipe down, and re-season with a bit of olive oil. I have no doubt this pan will last for life, it's so durable. Great value for the money. Answer:\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Answer the following question: Article: Most people think that the capital of the movie world is Hollyhood, in the United States. However, the real movie capital is Mumbai, in India. Mumbai used to be known as Bombay, and so the film industry there is called \"Bollywood.\" Bollywood makes twice as many movies each year as Hollyhood--more than 800 films a year. The movies from Bollywood are very different from Hollywood movies. For one thing, Bollywood movies are much longer than most Hollywood movies. Most Bollywood movies are more than three hours long, and contain singing, dancing, action, adventure, mystery, and romance (but usually no kissing). Because Bollywood films contain so many different features, this style of film is sometimes called a \"masala\" film. (\"Masala\" is an Indian word for a mixture of spices.) Another big difference between Bollywood and Hollywood movies is the way movies are made. It takes much longer to make a movie in Hollywood than in Bollywood. In fact, filming may begin on a Bollywood movie before the script even finished. The director and writers can make up the story while the film is being made. Sometimes they will even write the script by hand instead of taking time to type it. Bollywood actors are very popular and some are in such high demand that they may work on several movies at the same time. They may even shoot scenes for several films on the same day using the same costumes and scenery. Since most Bollywood movies follow the same kind of story, shooting scenes for several films at the same time is not a big problem for actors or directors. This also helps keep the cost of Bollywood movies lower than the cost of Hollywood movies. The average Bollywood film, with a budget of only two million U.S. dollars, seems very cheap compared to the average budget of sixty million U.S. dollars for a Hollywood film--thirty times as much! Question: What is the main topic of the reading? Yes or no, is the answer \"the differences between two movie industries\"?\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Answer the following question: Please answer the following question about this movie plot. If it's un-answerable, please output \"No answer\".  Question: How many women attempted to make a bet? Movie plot title: The North Avenue Irregulars Movie plot: Reverend Michael Hill (Edward Herrmann) and his two children arrive in a mid-sized California city as the new minister at North Avenue Presbyterian Church. The secretary/music director for the church, Anne (Susan Clark), is wary of the changes Hill intends to implement. Hill wants to get people involved, and asks the elderly Mrs. Rose Rafferty (Patsy Kelly) to handle the church's sinking fund.On his first Sunday, Hill learns from Mrs. Rafferty that her gambling husband Delaney (Douglas Fowley) bet all the sinking fund money on a horse race. Hill delivers a sermon less than 15 seconds long, then rapidly escorts Mrs. Rafferty out the church as astonished worshipers watch. She leads him to the bookie, hidden behind a dry-cleaning shop, and meets Harry the Hat (Alan Hale, Jr.), who recommends that Hill let the bet ride. Hill's horse loses and he is thrown out of the betting parlor. Hill summons the police, but the booking joint has been skillfully removed.That evening, Hill delivers a tirade against the organized crime in the city during a local television broadcast. He is chastised by his presbytery superiors for the tirade, and is urged to go out and build church membership in the area. His only success is with a rock band called Strawberry Shortcake, who he recruits to \"jazz up\" the music at church. As a result, Anne resigns as music director.A few days later, two treasury agents for the US government arrive: Marvin Fogleman (Michael Constantine) and Tom Voohries (Steve Franken). They want Hill to help them close down the town's gambling racket by recruiting some men from the church to place bets that the agents will watch. Hill cannot find any men to help, but hits upon the idea of using women. Hill calls together five women from the church whom include; Rose Rafferty; single mother Vicki Simms (Barbara Harris); man-hungry divorcee Claire Porter (Cloris Leachman); bride-to-be and career woman Jane Adams (Karen Valentine); and Cleo Jackson (Virgina Capers), who's husband owns a mechanic garage.Over the next...\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What classic board game involves real estate transactions and has been translated into more than 37 languages?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Known for his distinctive voice and narrative songwriting, this American singer-songwriter released the critically acclaimed album \"Born to Run\" in 1975."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "This anagram of \"paired\" is another term for a baby's absorbent garment."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Choose the correct sentiment from candidates:\nAvailable choices:\n(i). negative\n(ii). positive\n\nTEXT:I'm sure this was one of those \"WOAH!\" attractions in 1982 when Epcot opened, but now it's just silly. The film's message is cliché. The Circle-Vision is disorienting. And that awful song at the end is grating. And I really wish they'd install seats. After so much walking, all you want to do is sit down for a few minutes. And when you hear there's a film to see it sounds pretty glamorous! You get entertained while sitting down, right? WRONG! You're standing there for 18+ minutes leaning against a short little railing. Disney should make a newer Maelstrom like attraction to liven things up and replace this dull, lackluster film. NOT FUN. Skip it. In fact, skip Canada altogether unless you're eating there. Move directly to the United Kingdom."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Which U.S. state, known for its potatoes, shares borders with six other states including Wyoming and Utah?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Q:Rob is an amateur astronomer. Recently, he detected four asteroids, asteroid A, asteroid B, asteroid C, and asteroid D. Asteroid A and asteroid B are of the same mass, but asteroid A is farther from the earth than asteroid B. Asteroid C and asteroid D are at the same distance form the earth, but asteroid C has more mass than asteroid D. He also figured out that all of these asteroids have less mass than earth.  In clssical theory, if Rob needs to find out the object with stronger gravitational pull, which one would he choose, earth or asteroid A?\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What two-word phrase describes the phenomenon where a liquid turns into a solid due to a rapid decrease in temperature?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Which 19th-century English author wrote \"Pride and Prejudice\" and is renowned for her social commentary in novels?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Here is some data about a restaurant: name = The Plough, eatType = pub, food = Italian, priceRange = high, familyFriendly = yes, near = Café Rouge. Write a sentence that includes the following data about a restaurant"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Review:\nis a little tired \nIs this movie review sentence negative or positive?\npick from the following. (a). negative; (b). positive;\nThe answer is:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What famous author, known for his works on Middle Earth, was also a professor of Anglo-Saxon at Oxford?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Read the following paragraph and extract the answer for the question: What is the name of the person that Rinaldo drew his sword to attack?  The Crusader army under Goffredo is laying siege to Jerusalem, where the Saracen king Argante is confined with his troops. With Goffredo are his brother Eustazio, his daughter Almirena, and the knight Rinaldo. As Goffredo sings of the coming victory, Rinaldo declares his love for Almirena, and Goffredo confirms that she will be Rinaldo's bride when Jerusalem falls. Almirena urges Rinaldo to fight boldly and assure victory. As she departs, a herald announces the approach of Argante from the city. Eustazio surmises that the king fears defeat; this seems to be confirmed when Argante, after a grandiose entrance, requests a three-day truce to which Goffredo graciously assents. After Goffredo leaves, Argante ponders his love for Armida, the Queen of Damascus who is also a powerful sorceress, and considers the help her powers might bring him. As he muses, Armida arrives from the sky in a fiery chariot. She has divined that the Saracens' only chance of victory lies in vanquishing Rinaldo, and has the power, she claims, to achieve this. The scene changes to a garden, with fountains and birds, where Rinaldo and Almirena are celebrating their love. They are interrupted as Armida appears, and wrests Almirena from Rinaldo's embrace. Rinaldo draws his sword to defend his lover, but a black cloud descends to envelop Armida and Almirena, and they are borne away. Rinaldo mourns the loss of his loved one. When Goffredo and Eustazio arrive they comfort Rinaldo, and propose they visit a Christian magician who may have the power to save Almirena. Rinaldo, left alone, prays for strength."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In about two months December and January he made more discoveries that changed the world than anyone has ever made before or since\n\nWhat is the correctly punctuated version of this sentence?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Definition: In this task, you are given a sentence in Persian, and your task is to translate it into English.\nInput: بعد در همان قسمت وقتی‌ که در حال تقدیم یک لباس زیر مردانه بود، آشکار شد که مالیشیوا یک ساعت ورزشی اپل پوشیده است که در روسیه به قیمت ۲۳۹۹۰ روبل (۳۸۸ دلار) فروش می‌رود.\nOutput:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "You are given a sentence in English. Your job is to translate the English sentence into Arabic.\nQ: What's going to happen to our whole medical system?\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Ils ont aussi pris note du fait que les contraintes économiques avaient des implications défavorables quand ils cherchaient à mettre en place des stratégies plus efficaces pour développer des réseaux d'information efficaces et indépendants qui leur permettraient de préserver et de promouvoir leurs intérêts nationaux.\n\nWhich language is this?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "This is an email\nADesell@nyiso.com writes to the NYISO_TECH_EXCHANGE Discussion List:  As directed by FERC in its September 4, 2001 Order in docket ER01-2536-000, the NYISO has completed the calculation of the revenue neutral translation into Unforced Capacity terms of the In-City $105 cap applicable to Generators subject to market power mitigation measures. In the September 4, 2001 Order, the Commission decided that the \"translated in-city price cap is to be fixed at an amount determined on the day of the first in-city capacity auction under UCAP methodology\" using data from the most recent 12-month period. On the basis of Operating Data received by the NYISO, the Capacity-weighted EFORd for all Generators subject to market power mitigation measures for the 2001-2002 Winter Capability Period Auction is 7.04%. Thus, the In-City cap under the UCAP market design, including the Capability Period Auction scheduled for October 1, 2001, is $112.95. \n\nWhat is the subject of this email?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What country is home to the Great Barrier Reef, the world's largest coral reef system?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Select the topic that this about:\n\nWhen people talk about sports at the University of Connecticut, the subject most likely is basketball. Men's or women's, it really doesn't matter, since both teams won the national championship last season. But there's another sport on campus that, although it doesn't grab as many headlines, is just as well respected in its circles."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In what type of TV setting did Captain Picard and his crew navigate through space on the Starship Enterprise in 'Star Trek: The Next Generation'?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "The researchers will use data collected through the Canadian Paediatric Surveillance Program (CPSP), which is a joint project of Health Canada's Centre for Infectious Disease Prevention and Control, and the Canadian Paediatric Society.\n\nTranslate to French."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What 1963 film, starring Cary Grant and Audrey Hepburn, features a suspenseful treasure hunt through Paris?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Answer the following question: Alla Aleksandrovna Dzhioyeva (Ossetian: Джиоты Алыксандыры чызг Аллæ/Džioty Alyksandyry čyzg Allæ; Russian: Алла Александровна Джиоева (born August 23 1949) is a South Ossetian teacher turned politician who is currently Deputy Prime Minister in the South Ossetian government. She previously served as the Education Minister in 2002–2008. She won the 2011 presidential election but the Supreme Court annulled the results alleging that electoral fraud had been committed. Given a list of categories: company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film or written work, what category does the paragraph belong to?\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Bleuette Bernon was a French film actress who appeared in five films made by Georges Méliès around the turn of the 20th century. The earliest films made before 1900 were usually without plot and had a runtime of just a few minutes. However Méliès evolved the genre of the fictional motion picture and Bernon became one of the earliest character actors in movies. In 1899 she played the title character in Méliès's Jeanne d'Arc and Cinderella in Cendrillon. Given a list of categories: company, educational institution, artist, athlete, office holder, mean of transportation, building, natural place, village, animal, plant, album, film or written work, what category does the paragraph belong to?\nThe answer to this question is:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Pick from:\n(A). A month;\n(B). not enough information;\n(C). A day;\n(D). A hour;\nGiven those answer options, answer the question: Read the following context and answer the question. Context: SEOUL — Despite recent tensions over North Korea’s nuclear and missile tests, life is actually quite normal for American military families living at Camp Humphreys in South Korea, which is the largest overseas Army installation in the world. Lieutenant Colonel Joseph Puskas tries to come to most of his daughters’ high school soccer games at Camp Humphreys. In fact, his family’s lifestyle at this sprawling U.S. military base is similar to one they would lead back home. “We go to church on Sundays. We see all our friends there. We’re on the soccer field most of the afternoons, or just going for bike ride, the same things we would do if we were back in the States,” said Lieutenant Colonel Joseph Puskas, with the U.S. Eight Army. This is Puskas’ fourth tour in Korea. He met and married his Korean wife Mi-jung, during an earlier tour. His children have spent much of their lives at military bases in Korea. “I think it has given me a wider world view and has helped me understand other people a lot more,” said Elizabeth Puskas, the eldest daughter of the family who will attend college next year in the United States. The U.S. military in Korea is consolidating its forces in Camp Humphreys, including its military headquarters, as it moves to close older bases in congested Seoul and other regions of the country. Camp Humphreys is now the size of a small city, encompassing over 140 square kilometers of land, with construction underway to expand its capacity to accommodate over 40,000 people. There are modern apartments for soldiers and their families, schools, movie theaters, shopping centers and fast food restaurants to help bring some of the comforts of home to military life in Korea. The base even has its own golf course. “I have been around the army for part of the last 40 years as a soldier and now as a civilian, and this is as normal as any army post I’ve ever been on. In fact it is probably the nicest one I’ve been on because everything is new,” said Bob McElroy, a Camp Humphreys public affairs officer. Question: Puskas's daughter's soccer game probably lasted Answer:\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Translate \"\"The role of the ECB is key,\" Vitanov said, \"but the measures it undertakes must be radical, especially in Greece, Italy, Spain and Portugal.\" to Turkish?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Write a positive tweet."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Can you feel the sensation of hunger or thirst?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Q:Read the following article and select the best answer. Article: Have you ever been offered an alcoholic drink? What about someone saying \"Don't worry, just have one little sip\"? Most people have their first drink by the time they're 13. That first drink can be the start of a troubled life. Drinking can make teens feel good, but that lasts only a short time. Alcohol clouds your brain and limits your ability to make decisions. Excessive drinking gradually makes your brain shrink and can cause serious damage. Over-drinking can cause learning disabilities and damage your memory. It distorts your vision and leads to blackouts. Teenagers often think that drinking will give you more energy, but alcohol isn't an energy drink; it's a depressant. Drinking and driving is one of the top causes of death for teen boys. An alcohol-related motor vehicle crash kills one person every 33 minutes and injures someone every two minutes. The rate of teenagers driving drunk is so high that the government is trying to pass new laws restricting teen driving. When we get to high school, friends start pressuring us to drink. High school students see alcohol as glamorous and a way to become popular. I created a survey at my school. Twenty-four of the 63 respondents predicted they would drink in high school. Eleven said maybe, and 28 said they don't plan on drinking. Regardless of what they say now, things can change. Teens starting high school want to fit in. Some people will do anything to be accepted, including potentially(,) hurting themselves. They think that one drink won't do anything. A little bit of alcohol probably won't kill you, but it can lead to poor decisions. High school is the time to experiment with what you want to do in life, but if you're experimenting with alcohol you could hurt someone, including yourself. (300 words) Question: What is the main purpose of the author writing this passage? - To prove that alcohol is not an energy drink. - To make the teens aware of the danger of drinking and keep from it. - To analyze why the teens in high school are addicted to alcohol. - To ask people to pay attention to the situation of teen drinking.\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "In Greek mythology, who was forced to push a boulder up a hill for eternity as punishment for his deceitfulness?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Welcome to the mystical realm of Elysium, a hidden world nestled within the ethereal folds of reality. This enchanting land is home to creatures and beings that defy imagination, with landscapes that stretch beyond the horizon in a symphony of colors and textures. The air here is filled with an intoxicating fragrance of blooming flowers and lush foliage, while the gentle hum of magic resonates throughout this utopia.\n\nElysium's topography is as diverse as it is breathtaking: rolling hills adorned with vibrant flora give way to dense forests teeming with life; crystalline rivers meander through verdant valleys, their waters imbued with the essence of vitality; towering mountains pierce the heavens, crowned by clouds wreathed in iridescent hues. At the heart of this paradise lies the resplendent city of Luminesa, a beacon of hope and wonder for all who dwell within its gleaming walls.\n\nPlease guide me on an immersive journey through this magical realm."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Please answer the following question: Read the bio below and try to give details on odane skeen 's:    - sport     - event     - weight     - pb     - height       - birth date     - name     - birth place     Bio: odane skeen -lrb- born 28 august 1994 -rrb- is a jamaican sprinter .\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What natural phenomenon, also called an aurora, occurs when charged particles from the sun interact with Earth's magnetic field, creating colorful displays in the sky?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Q:After finding a way to fix the duck, Cameron made some rice and bought napkins.  Given that the answer to a question is \"made some rice\", what is the question?\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Read this article and answer this question Hoping to build on their dramatic home win over the Eagles, the Buccaneers flew to Giants Stadium for their Week 8 game with the New York Giants. Bucs CB Ronde Barber would be facing his brother, RB Tiki Barber for the last time in NFL competition as the latter planned to retire after the season. In the first quarter, Tampa Bay fell behind early, as QB Eli Manning completed a 7-yard TD pass to WR Plaxico Burress for the only score of the period. In the second quarter, the Bucs' woes continued as Giants RB Brandon Jacobs got a 1-yard TD run. Kicker Matt Bryant would get Tampa Bay a 43-yard field goal, but that would all of the points that the Bucs would get, because after a scoreless third quarter, Giants kicker Jay Feely kicked a 31-yard field goal to put the game away. With their loss, the Buccaneers fell to 2-5.\nHow many points did the Giants score during the first half?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Who painted the ceiling of the Sistine Chapel in Vatican City, which includes the famous scene \"The Creation of Adam\"?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Vidin-Calafat arasına ikinci bir köprü inşa etme çabaları da çeşitli gecikmelerle karşılaştı.\n\nWhich language is this?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "\"Tennis: Why does Rafeal Nadal's girlfriend 'Maria Francisca Perello' not attend his matches during the tournaments?\"\n\"Why are some sports such as tennis and golf have 'Open' in a tournament name? E.g. U.S. Open\"\n\nAre these two questions inquiring about the same information?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Welcome to the Isle of Elithoria, a hidden gem nestled within an ethereal pocket dimension. The island is home to an array of magical creatures and enchanted flora that exist nowhere else in the universe. A vast forest stretches across the landscape, filled with ancient trees whose roots are woven into the very fabric of time itself. At the heart of this mystical land lies the Fountain of Reverie, a source of unimaginable power that has remained untouched for centuries.\n\nPlease guide me through this wondrous journey."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Please check if these have the same meaning. Answer \"yes\" if they do, otherwise \"no\".\nFor many years , Ian Weatherhead lived in Somerset , before moving to Cheltenham .\nIan Weatherhead lived for many years in Somerset before moving to Cheltenham ."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Who wrote 'Pride and Prejudice', a classic novel about the romantic entanglements of the Bennet sisters?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "what's happenin?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Extract the answer to the following question from the movie plot. If the question isn't answerable, please output \"Can't answer\". Question: What does Han say are the true keys to mastering the martial art? Title: The Karate Kid Movie plot: Twelve-year-old Dre Parker and his mother Sherry Parker move from Detroit to Beijing after Sherry gets a job transfer at her car factory. After a day in a Chinese park, Dre develops a crush on a young violinist, Meiying, who reciprocates his attention, but Cheng, a rebellious kung fu prodigy whose family is close to Meiying's, attempts to keep the two young ones apart by violently attacking Dre, and later bullies him at school, as Dre is too weak to stand up for himself. During an attack one day, the maintenance man, Mr. Han, comes to Dre's aid, revealing himself as an ancient kung fu master. After Han mends Dre's injuries using fire cupping, Dre asks if Mr. Han could teach him kung fu to get revenge on his attackers. Han refuses, but meets Cheng's teacher, Master Li, to make peace. Li, who teaches his students to show no mercy to their enemies, challenges Dre to a fight with Cheng. Seeing a poster for an open martial arts tournament, Han instead proposes that Dre compete against Li's students there. He also requests that the stronger students that Li teaches leave Dre alone to train in time for the tournament, in hopes Dre will no longer be bullied. Li accepts the offer, but tells Han that if Dre does not show up, there will trouble for both Han and Dre. Han promises to teach Dre \"real\" kung fu and begins to train Dre by emphasizing movements that apply to life in general, and that serenity and maturity, not punches and power, are the true keys to mastering the martial art. He teaches this by having Dre go through various actions with his jacket, which teaches Dre muscle memory moves. Han then takes Dre to a divine temple in the Wudang Mountains where he trained with his father hundreds of years ago, and Dre witnesses a woman making a king cobra reflect her movements, and Dre and drinks the water from a secret, ancient Chinese well for good luck. As Dre's relationship with Meiying continues, he persuades her to cut school for a day of fun, but when she is nearly late for her violin audition which was brought...\nThe answer to this question is:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "This popular board game, invented by Alfred Mosher Butts during the Great Depression, involves creating words on a grid using lettered tiles."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Detailed Instructions: This task is about translating a given French language sentence to English.\nQ: La presse écrite est morte.\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Can we draw the following hypothesis from the context? \n\nContext:\n\nDear me , I can hardly wait for her to grow up , though she 's sweet enough now to make one wish she could stay a baby forever . ''<br>When Miss Rosetta returned to the kitchen , her eyes fell on an empty cradle .<br>Camilla Jane was gone !<br>Miss Rosetta promptly screamed .<br>She understood at a glance what had happened .<br>Six months ' old babies do not get out of their cradles and disappear through closed doors without any assistance .<br>`` Charlotte has been here , '' gasped Miss Rosetta .<br>`` Charlotte has stolen Camilla Jane !\n\nHypothesis: Someone stole a baby."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "The 1999 Acura Classic – Doubles was the doubles event of the twentieth edition of the third tournament in the US Open Series. Martina Hingis and Natasha Zvereva were the defending champions but Hingis did not compete this year. Zvereva played with Mary Pierce, and they were defeated in the first time by Cara Black and Irina Selyutina.\n\nChoose your answer: based on the paragraph above can we conclude that \"A lot of people showed up to the event\"?\n\nChoices: [i] Yes [ii] It's impossible to say [iii] No\nI think the answer is"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "A self-titled album released by which iconic American singer-songwriter, known as 'The Boss', is often referred to as the 'Born to Run' album?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "They can be harbored, but few hold water. You can nurse them, but only by holding them against someone else. You can carry them, but not with your arms. You can bury them, but not in the earth."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Question: I am trying to decide whether it's worth it to invest in this film proposal. Can you help me answer a few questions? If you can't, please say \"No I can't\".  Question: How was Sam Killed? Movie title: Ghost Movie plot: Sam Wheat (Patrick Swayze), a banker, and Molly Jensen (Demi Moore), a potter, are a couple who renovate and move into an apartment in New York City with the help of Sam's friend and co-worker Carl Bruner (Tony Goldwyn). One afternoon, Sam discovers unusually high balances in obscure bank accounts, but despite Carl's offer to help investigate, Sam decides to investigate on his own. That night while walking home together Sam and Molly are mugged by a street thug who pulls a gun and demand's Sam's wallet. Sam struggles with the attacker and is shot. After pursuing the street thug, Sam runs back to Molly andâseeing her crying over his dead bodyâdiscovers that he has died from the gunshot and has become a ghost. Sam stays by the distraught Molly, trying to come to grips with his new condition, when Carl comes over and suggests Molly take a walk with him. Sam cannot bring himself to follow. Moments later, the mugger enters the empty apartment and commences searching for something. When Molly returns, Sam scares their cat into attacking the thug, who flees. Sam follows the mugger to his apartment in Brooklyn and learns that the man's name is Willie Lopez and that Willie intends to return later to continue the search. While walking back to the apartment, Sam happens upon the parlor of Oda Mae Brown (Whoopi Goldberg), a con artist posing as a medium. But when she can hear Sam, she realizes she has an actual gift. He convinces her of the danger that Molly is in and that Oda must warn her. Molly is skeptical about Oda until Oda relays information that only Sam could know. After Molly tells Carl about Oda Mae, Carlâunaware that Sam is followingâthen goes to Willie's apartment. There, to Sam's surprise, he finds that Carl and Willie are working together, that Carl had a hand in Sam's death, and that he had needed to obtain Sam's book of passwords in order to access and launder the excess money from the bank accounts. Under instructions relayed from Sam to Oda Mae, Molly goes to the police with Willie's name and...\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What type of details about george emslie , lord emslie  can be gathered from the following bio?  Bio: -lrb- george -rrb- nigel hannington emslie , lord emslie -lrb- born 17 april 1947 -rrb- is a retired judge of the supreme courts of scotland . he is the son of former lord president george emslie , baron emslie , and older brother of fellow judge derek emslie , lord kingarth .\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Welcome to the mystical land of Luminara, a realm where magic and technology intertwine in harmony. The landscape is an amalgamation of floating islands connected by intricate bridges that shimmer with ethereal energy. Each island houses its own unique ecosystem, ranging from lush forests teeming with bioluminescent flora and fauna to arid deserts with crystalline sand dunes. The sky above boasts an aurora borealis that paints the heavens in a symphony of colors, while below, the ocean's depths hold secrets yet undiscovered.\n\nGuide me through this enchanting world."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Answer the following question: Context: addison had respect among the group so he persuaded them to take a break.  Question: Why did Addison do this?  Which one of these answers best answers the question according to the context?  A: be nice  B: be resented  C: be hated\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Asi máš pravdu. - Fajn. - Promiň.\n\nCould you please translate this to English?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Please answer a question about the following article about Utrecht:\n\nWhen the Frankish rulers established the system of feudalism, the Bishops of Utrecht came to exercise worldly power as prince-bishops. The territory of the bishopric not only included the modern province of Utrecht (Nedersticht, 'lower Sticht'), but also extended to the northeast. The feudal conflict of the Middle Ages heavily affected Utrecht. The prince-bishopric was involved in almost continuous conflicts with the Counts of Holland and the Dukes of Guelders. The Veluwe region was seized by Guelders, but large areas in the modern province of Overijssel remained as the Oversticht.\n\nWhat hapend when Frankish rulers established the system of feudalism"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "yo!"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What famous American author, known for his dark and macabre stories, was also a literary critic and editor in the 1800s?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "You see a house with two doors. One door leads to certain death and the other door leads to freedom. There are two guards, one in front of each door. One guard always tells the truth and the other always lies. You do not know which guard is which, nor which door leads to freedom. You can ask one question to one guard to determine the safe door. What should you ask?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "A strait named after this explorer separates Russia's Big Diomede Island from Alaska's Little Diomede Island. Who is he?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Math problem: Solve 5*k - 15*k + 80 = 0 for k.\nWhat is the solution?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Evaluate the impact of technology on traditional art forms. Provide examples of specific technologies and corresponding shifts or transformations in various artistic mediums."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "I want to test the ability of students to read a passage and answer questions about it. Could you please come up with a good question for the passage \"In 1951, the Conservative Party returned to power in Britain, under the leadership of Winston Churchill. Churchill and the Conservatives believed that Britain's position as a world power relied on the continued existence of the empire, with the base at the Suez Canal allowing Britain to maintain its pre-eminent position in the Middle East in spite of the loss of India. However, Churchill could not ignore Gamal Abdul Nasser's new revolutionary government of Egypt that had taken power in 1952, and the following year it was agreed that British troops would withdraw from the Suez Canal zone and that Sudan would be granted self-determination by 1955, with independence to follow. Sudan was granted independence on 1 January 1956.\"?\nAnswer:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Despite being made up of over 7,000 islands, more than half of what Southeast Asian country's population resides on its largest island, Luzon?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What name of a famous Italian city, known for its canals and gondolas, is also the title of a 2004 movie starring Johnny Depp?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Which 19th-century French artist is best known for his paintings depicting ballet dancers and Parisian life?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Instructions: You are given a sentence in Japanese. Your job is to translate the Japanese sentence into English.\nInput: ひとつのグループは仮想ラボシミュレータを使いもうひとつのグループは従来の教え方で学びました両グループとも授業時間の長さは同じです\nOutput:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Given the following context:  The film highlights three different stories. These stories unfold over the course of nine months. Two couples live completely opposite lives of each other, yet share one commonality: an unexpected pregnancy. The main characters, Carmine and Sasha live in a carefree and comfortable world and the arrival of a child shakes up their conventional life: behind their illusion of a fancy condominium and their successful careers hides a couple that is living in pain, secrets and lies. Simultaneously, the other couple within the film, Justine and Seb are freedom seekers that live day by day on the streets of Montreal. These two young squeegee kids live in hopes of a better future, but in the meantime seem to be content with part-time jobs; such as washing windshields and doing small-time deals. Justine's pregnancy catches Seb off guard as he is not ready to be a father. The history of violence in their relationship makes getting an abortion the obvious choice, however things worsen and turn out differently. In the third story, Stephen Decker is a 50-something father who has lost everything, his wife, his only child, and his inner peace. Now he has found a new purpose for his life: revenge, which brings him from Calgary to Montreal as he attempts to hunt down his daughter's murderer. What he finds is far from what he expected, and five destinies converge, for better and for worse.  answer the following question:  Whose life is shaken up by the arrival of a child?\nA:"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "How does the sentence end?\n\nBrett knew a little about dryers and tried to fix  dryer while Craig was very good at fixing them. \nOptions are:\n a). Brett wouldn't fix the dryer.;\n b). Craig wouldn't fix the dryer.;"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Create a safety checklist for a beginner going on their first caving adventure, covering equipment, precautions, and emergency procedures. Format your response as a numbered list."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What famous physicist and chemist won the Nobel Prize twice, once for Physics and another time for Chemistry?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Die Übersetzer unseres Unternehmens arbeiten mit über 50 Weltsprachen: europäische und asiatische Sprachen, Sprachen der Völker Russlands und Sprachen der GUS-Länder und des Baltikums.\n\nCould you please translate this to English?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What does the smell of a burning candle remind you of?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Do you have a joke about DVDs?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Which legendary American folk hero is known for his exploits as a lumberjack and his blue ox named Babe?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What legendary baseball player, also known as the Sultan of Swat, set numerous records during his career including most home runs in a season?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "What long-running animated TV show features a yellow-skinned family named the Simpsons?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "You find yourself in a beautiful, enchanted forest filled with magical creatures and plants. The trees are tall and ancient, their branches adorned with glowing flowers that illuminate the path ahead. A gentle breeze carries the sweet scent of blooming flowers as you hear the distant sound of a bubbling brook. As you walk deeper into the forest, you notice that the atmosphere is peaceful and serene, inviting you to explore further.\n\nGuide me through this magical adventure."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "If you drop me I'm sure to crack. But give me a smile and I'll always smile back."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Which Shakespearean play features the characters Macbeth, Lady Macbeth, and the three witches?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Article: Hyderabad produces around 4,500 tonnes of solid waste daily, which is transported from collection units in Imlibun, Yousufguda and Lower Tank Bund to the dumpsite in Jawaharnagar. Disposal is managed by the Integrated Solid Waste Management project which was started by the GHMC in 2010. Rapid urbanisation and increased economic activity has also led to increased industrial waste, air, noise and water pollution, which is regulated by the Telangana Pollution Control Board (TPCB). The contribution of different sources to air pollution in 2006 was: 20–50% from vehicles, 40–70% from a combination of vehicle discharge and road dust, 10–30% from industrial discharges and 3–10% from the burning of household rubbish. Deaths resulting from atmospheric particulate matter are estimated at 1,700–3,000 each year. Ground water around Hyderabad, which has a hardness of up to 1000 ppm, around three times higher than is desirable, is the main source of drinking water but the increasing population and consequent increase in demand has led to a decline in not only ground water but also river and lake levels. This shortage is further exacerbated by inadequately treated effluent discharged from industrial treatment plants polluting the water sources of the city.\n\nQuestion: How many deaths are believed to be caused in Hyderabad due to air pollution each year?"
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Standing in line and observing my surroundings on the Friday night I saw a typical Vegas night club: crazy long unorganzied lines, VIP doesn't mean squat, and complete unprofessional jerks for bouncers. Thank God I took those passes from the promoter at the last second before we got in line, I would not have been happy to pay to get in. Very crowded, extremely expensive drinks ($64 for 4 shots?)...really? $10 for a corona? Really? Small dance floor, and barely any standing room anywhere where we weren't packed like sardines. The music was decent but a little too techno-ee for my liking. Some DJ was there, I don't even remember his name. Someone dressed in a giant space suit with green lights and laser beams came out onto the stage area, which was interesting but weird. I had a good time because I was with my best friends. I've heard mixed reviews for Haze...I can't believe people like it that much!\nChoose: was this review given positively or negatively?\nSelect from the following.\n(1). negative.\n(2). positive."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "Are you capable of physical exertion and can you feel the resulting fatigue?"
+    }
+  ]
+]
