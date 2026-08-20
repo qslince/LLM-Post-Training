@@ -2,6 +2,7 @@
 wandb/
 __pycache__/
 *.pyc
+.env
 
 # data
 edu_fineweb10B/
