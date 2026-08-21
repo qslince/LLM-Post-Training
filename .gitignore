@@ -12,6 +12,15 @@ input.txt
 
 # model checkpoints (too large for GitHub)
 *.pt
+*.pth
+*.safetensors
+*.bin
+checkpoints/
+Qwen2.5-0.5B-SFT/
+SmolLM3-Custom-SFT/
 
 # empty dirs
 smollm3-finetuned/
+
+# logs
+gpt2/log/

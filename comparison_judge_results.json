@@ -1,0 +1,1602 @@
+[
+  {
+    "prompt_idx": 0,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 1,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 2,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 3,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 4,
+    "forward": "B",
+    "reverse": "TIE",
+    "fwd_winner": "GRPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 5,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 6,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 7,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 8,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 9,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 10,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 11,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 12,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 13,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 14,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 15,
+    "forward": "A",
+    "reverse": "A",
+    "fwd_winner": "DPO",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 16,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 17,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 18,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 19,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 20,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 21,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 22,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 23,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 24,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 25,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 26,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 27,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 28,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 29,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 30,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 31,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 32,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 33,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 34,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 35,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 36,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 37,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 38,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 39,
+    "forward": "A",
+    "reverse": "A",
+    "fwd_winner": "DPO",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 40,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 41,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 42,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 43,
+    "forward": "TIE",
+    "reverse": "B",
+    "fwd_winner": "TIE",
+    "rev_winner": "DPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 44,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 45,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 46,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 47,
+    "forward": "B",
+    "reverse": "B",
+    "fwd_winner": "GRPO",
+    "rev_winner": "DPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 48,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 49,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 50,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 51,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 52,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 53,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 54,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 55,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 56,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 57,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 58,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 59,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 60,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 61,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 62,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 63,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 64,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 65,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 66,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 67,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 68,
+    "forward": "A",
+    "reverse": "A",
+    "fwd_winner": "DPO",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 69,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 70,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 71,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 72,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 73,
+    "forward": "A",
+    "reverse": "A",
+    "fwd_winner": "DPO",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 74,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 75,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 76,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 77,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 78,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 79,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 80,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 81,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 82,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 83,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 84,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 85,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 86,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 87,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 88,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 89,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 90,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 91,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 92,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 93,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 94,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 95,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 96,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 97,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 98,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 99,
+    "forward": "B",
+    "reverse": "B",
+    "fwd_winner": "GRPO",
+    "rev_winner": "DPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 100,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 101,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 102,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 103,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 104,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 105,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 106,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 107,
+    "forward": "A",
+    "reverse": "A",
+    "fwd_winner": "DPO",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 108,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 109,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 110,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 111,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 112,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 113,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 114,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 115,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 116,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 117,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 118,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 119,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 120,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 121,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 122,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 123,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 124,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 125,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 126,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 127,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 128,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 129,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 130,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 131,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 132,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 133,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 134,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 135,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 136,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 137,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 138,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 139,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 140,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 141,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 142,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 143,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 144,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 145,
+    "forward": "TIE",
+    "reverse": "B",
+    "fwd_winner": "TIE",
+    "rev_winner": "DPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 146,
+    "forward": "B",
+    "reverse": "TIE",
+    "fwd_winner": "GRPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 147,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 148,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 149,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 150,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 151,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 152,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 153,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 154,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 155,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 156,
+    "forward": "B",
+    "reverse": "B",
+    "fwd_winner": "GRPO",
+    "rev_winner": "DPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 157,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 158,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 159,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 160,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 161,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 162,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 163,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 164,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 165,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 166,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 167,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 168,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 169,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 170,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 171,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 172,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 173,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 174,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 175,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 176,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 177,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 178,
+    "forward": "B",
+    "reverse": "B",
+    "fwd_winner": "GRPO",
+    "rev_winner": "DPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 179,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 180,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 181,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 182,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 183,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 184,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 185,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 186,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  },
+  {
+    "prompt_idx": 187,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 188,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 189,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 190,
+    "forward": "A",
+    "reverse": "TIE",
+    "fwd_winner": "DPO",
+    "rev_winner": "TIE",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 191,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 192,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 193,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 194,
+    "forward": "B",
+    "reverse": "B",
+    "fwd_winner": "GRPO",
+    "rev_winner": "DPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 195,
+    "forward": "TIE",
+    "reverse": "A",
+    "fwd_winner": "TIE",
+    "rev_winner": "GRPO",
+    "consistent": "INCONSISTENT"
+  },
+  {
+    "prompt_idx": 196,
+    "forward": "TIE",
+    "reverse": "TIE",
+    "fwd_winner": "TIE",
+    "rev_winner": "TIE",
+    "consistent": "TIE"
+  },
+  {
+    "prompt_idx": 197,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 198,
+    "forward": "B",
+    "reverse": "A",
+    "fwd_winner": "GRPO",
+    "rev_winner": "GRPO",
+    "consistent": "GRPO"
+  },
+  {
+    "prompt_idx": 199,
+    "forward": "A",
+    "reverse": "B",
+    "fwd_winner": "DPO",
+    "rev_winner": "DPO",
+    "consistent": "DPO"
+  }
+]

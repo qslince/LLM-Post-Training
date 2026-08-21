@@ -1,0 +1,98 @@
+{
+  "rm_scores_per_model": {
+    "sft-seed42": {
+      "mean": 0.41742706298828125,
+      "std": 0.7669348003370455
+    },
+    "dpo-seed42": {
+      "mean": 0.5383327960968017,
+      "std": 0.8301685422948365
+    },
+    "dpo-seed43": {
+      "mean": 0.569609375,
+      "std": 0.8223601325663035
+    },
+    "dpo-seed44": {
+      "mean": 0.5131147003173828,
+      "std": 0.821474956802737
+    },
+    "grpo-seed42": {
+      "mean": 0.48147491455078123,
+      "std": 0.8550428250115459
+    }
+  },
+  "length_stats": {
+    "sft-seed42": {
+      "mean_length": 51.98,
+      "std_length": 65.87654817915099,
+      "median_length": 23.0,
+      "unique_trigram_ratio": 0.8964107676969093
+    },
+    "dpo-seed42": {
+      "mean_length": 76.675,
+      "std_length": 74.37082341214195,
+      "median_length": 62.0,
+      "unique_trigram_ratio": 0.8801042571676803
+    },
+    "dpo-seed43": {
+      "mean_length": 77.36,
+      "std_length": 72.75266593053482,
+      "median_length": 62.5,
+      "unique_trigram_ratio": 0.8801907411086827
+    },
+    "dpo-seed44": {
+      "mean_length": 78.515,
+      "std_length": 74.15793804441977,
+      "median_length": 62.5,
+      "unique_trigram_ratio": 0.8739073711676452
+    },
+    "grpo-seed42": {
+      "mean_length": 78.425,
+      "std_length": 79.82439711642049,
+      "median_length": 46.0,
+      "unique_trigram_ratio": 0.8838545407064047
+    }
+  },
+  "aggregated": {
+    "SFT": {
+      "reward_mean": 0.41742706298828125,
+      "reward_std": 0,
+      "length_mean": 51.98,
+      "length_std": 0,
+      "trigram_mean": 0.8964107676969093,
+      "n_seeds": 1
+    },
+    "DPO": {
+      "reward_mean": 0.5403522904713948,
+      "reward_std": 0.023108019315386967,
+      "length_mean": 77.51666666666667,
+      "length_std": 0.7593015796696928,
+      "trigram_mean": 0.878067456481336,
+      "n_seeds": 3
+    },
+    "GRPO": {
+      "reward_mean": 0.48147491455078123,
+      "reward_std": 0,
+      "length_mean": 78.425,
+      "length_std": 0,
+      "trigram_mean": 0.8838545407064047,
+      "n_seeds": 1
+    }
+  },
+  "judge": {
+    "dpo_wins": 49,
+    "grpo_wins": 49,
+    "ties": 64,
+    "inconsistent": 38,
+    "total": 200,
+    "position_bias": 0.040983606557377095
+  },
+  "dpo_seeds": [
+    42,
+    43,
+    44
+  ],
+  "grpo_seeds": [
+    42
+  ]
+}
